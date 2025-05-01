@@ -20,7 +20,9 @@ A fast-paced, retro-style 2D biker racing game inspired by the classic *Road Ras
 
 ## 📸 Screenshots
 
-> 
+![Gameplay Screenshot 1](screenshots/1.png)
+
+![Gameplay Screenshot 2](screenshots/2.png)
 
 ## 🚀 Getting Started
 
