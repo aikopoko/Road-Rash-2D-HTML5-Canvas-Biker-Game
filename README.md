@@ -3,6 +3,10 @@
 A fast-paced, retro-style 2D biker racing game inspired by the classic *Road Rash*, built with **HTML5 Canvas** and **JavaScript**. Race, dodge traffic, and knock down opponents as you speed through custom-designed roads with smooth animations and sprite interactions. Perfect for game dev beginners and nostalgic gamers!
 
 > ⚙️ *Built with the help of [ChatGPT](https://openai.com/chatgpt) for logic guidance, debugging, and feature planning.*
+## 🎥 Building process video
+
+[![Watch the Gameplay](https://img.youtube.com/vi/iIUlUj-CB0Y/0.jpg)](https://www.youtube.com/watch?v=iIUlUj-CB0Y)  
+*Click to watch the game in action on YouTube!*
 
 ## 🎮 Features
 
